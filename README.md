@@ -1,4 +1,4 @@
-# <Project name>
+# <repo>
 ## Building
 Requirements:
 - spdlog
