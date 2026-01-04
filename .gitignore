@@ -1,4 +1,6 @@
-build
-.cache
-.ignore
-.vscode
+build/
+.cache/
+.ignore/
+.vscode/
+.helix/
+.idea/
